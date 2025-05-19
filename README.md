@@ -18,7 +18,7 @@ I'm currently focusing on building intuitive ML tools and improving developer ex
 
 ## 🚀 Current Projects
 
-- **Endpointify** — An ML API wrapper tool so intuitive, it practically reads your mind (or at least your endpoints).​
+- **Endpointify** — An ML API wrapper tool so intuitive, it practically reads your mind (or at least your endpoints).​ <a href="endpointify.vercel.app> Click Here To Check it out!</a>
 - **TwiSent** — A sentiment analysis package for Python that deciphers tweets faster than you can say "hashtag blessed."
 
 ## 💡 What I'm Learning
